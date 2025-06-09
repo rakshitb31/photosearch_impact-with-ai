@@ -2542,3 +2542,22 @@ responsive
   font-weight: 700;
 }
 
+
+.simple-logo {
+  display: inline-block;
+  text-align: left;
+  margin-left: 20px;  /* Optional: Adds some space from the left */
+}
+
+.simple-logo h4 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #03A4ED;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+}
+
+.simple-logo .highlight-text {
+  color: #FE3440;
+  font-weight: 700;
+}
